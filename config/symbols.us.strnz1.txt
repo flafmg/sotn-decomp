@@ -12,6 +12,7 @@ g_EInitBombKnight = 0x80180C3C;
 g_EInitRockKnight = 0x80180C6C;
 BackgroundBlockInit = 0x80180C9C;
 rooms = 0x801824C4;
+func_801B2CF8 = 0x801AB148;
 Random = 0x801ACEA0;
 CreateEntityFromCurrentEntity = 0x801AF518;
 CreateEntityFromEntity = 0x801AF58C;
